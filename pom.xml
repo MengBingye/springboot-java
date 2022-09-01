@@ -29,7 +29,7 @@
         <commons-codec.version>1.10</commons-codec.version>
         <mysql.driver.version>5.1.36</mysql.driver.version>
         <redis.version>1.4.5.RELEASE</redis.version>
-        <jsoup.version>1.10.2</jsoup.version>
+        <jsoup.version>1.15.3</jsoup.version>
         <shiro.version>1.4.0-RC2</shiro.version>
     </properties>
 
